@@ -6,7 +6,9 @@ AI-enabled decision support system for Antarctic sea-ice, iceberg trajectory, an
 
 ## Project Structure
 
-- frontend — User interface
-- backend — Application and AI/backend logic
-- data — Project datasets and data resources
-- docs — Project documentation
+- frontend ï¿½ User interface
+- backend ï¿½ Application and AI/backend logic
+- data ï¿½ Project datasets and data resources
+- docs ï¿½ Project documentation
+## Git Workflow
+Repository managed using Git and GitHub.
